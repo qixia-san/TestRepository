@@ -2,7 +2,7 @@ aaa
 sansui edited
 master edited
 
-sansui branch edit @v1.0
-sansui branch edit @v2.0
+
+sansui branch edit @v2.0 -delete
 master edit @v2.0
 sansui branch edit @v3.0
